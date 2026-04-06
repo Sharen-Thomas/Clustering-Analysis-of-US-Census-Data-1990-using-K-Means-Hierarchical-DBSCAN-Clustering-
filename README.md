@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This project performs unsupervised clustering analysis on the US Census Data 1990 dataset. Using three different clustering algorithms—K-Means, Hierarchical Clustering, and DBSCAN—we identify patterns, anomalies, and natural groupings within the population data. The analysis includes data preprocessing, standardization, dimensionality reduction via PCA, and comprehensive visualization of clustering results.
+This project performs unsupervised clustering analysis on the US Census Data 1990 dataset. Using three different clustering algorithms: K-Means, Hierarchical Clustering, and DBSCAN, we identify patterns, anomalies, and natural groupings within the population data. The analysis includes data preprocessing, standardization, dimensionality reduction via PCA, and comprehensive visualization of clustering results.
 
 ## WHAT IT DOES
 
