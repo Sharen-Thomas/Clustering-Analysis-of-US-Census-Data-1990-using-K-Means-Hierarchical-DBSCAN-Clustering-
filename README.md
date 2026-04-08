@@ -81,9 +81,7 @@ This project performs unsupervised clustering analysis on the US Census Data 199
 - K-Distance Graph:	Determine eps parameter for DBSCAN
 - PCA Scatter Plots:	Visualize clusters in 2D space
 
-## FILES 
+## CONTACT 
 
-- 'INFO411_Project_Report.pdf' - Complete project documentation
-
-## DISCLAIMER
-**This repository is for viewing purposes only. It is not licensed for copying, modification, or commercial use without explicit permission from the author.**
+- Email ID: sharenmariyamthomas@gmail.com
+- LinkedIn: www.linkedin.com/in/sharenthomas 
